@@ -1,3 +1,2 @@
 # Mars
-A new line of code
-Yet another line of code
+A dummy repository to learn Github
